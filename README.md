@@ -4,8 +4,7 @@
 🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY LEGEND BAD BOY `** 🔰
 
 ----------
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+𝐋𝐄𝐆𝐄𝐍𝐃 𝐁𝐀𝐃 𝐁𝐎𝐘 
 
 -------
 
