@@ -28,7 +28,7 @@
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`WELLCOME+TO+AWAN++MD+WHATSAPP+BOT`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`WELLCOME+TO+LEGEND+MD+WHATSAPP+BOT`" alt="">
 
 ------------
 
