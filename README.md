@@ -12,7 +12,7 @@
 ------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=LEGEND-MD-V2&description=🥂❤️🔐THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20SILENT%20LOVER%20432%20KING%20OF%20KINGS%20OWNER%20SILENT%20LOVER%20AND%20SOBIA%20BUTT%20MANGER%20AND%20BUG%20FINDER%20DARKDEVIL⁷¹⁹🖤🔥🔞&[https://i.ibb.co/QvGkkd0/Manul-Ofc-X.jpg?]X.jpg)v=4&backgroundColor=%23ecf0f1&github=SILENTLOVER40&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=LEGEND-MD-V2&description=🥂❤️🔐THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20LEGEND%20BOY%20KING%20OF%20KINGS%20OWNER%20LEGEND%20AND%20AWAN%20ZADA%20MANGER%20AND%20BUG%20FINDER%20DARKDEVIL⁷¹⁹🖤🔥🔞&[https://i.ibb.co/QvGkkd0/Manul-Ofc-X.jpg?]X.jpg)v=4&backgroundColor=%23ecf0f1&github=SILENTLOVER40&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
 
@@ -83,7 +83,7 @@ src="https://cardivo.vercel.app/api?name=LEGEND-MD-V2&description=🥂❤️🔐
 -------
 
 <p align="center">
-  <a href="https://wa.me/+923096287432?text=*ᴀsʟᴀᴍ-ᴜ-ᴀʟᴀɪᴋᴜᴍ+sɪʟᴇɴᴛʟᴏᴠᴇʀ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ+ʀᴇᴘᴏ..⁴³²*" target="_blank">
+  <a href="https://wa.me/+923288651610?text=*ᴀsʟᴀᴍ-ᴜ-ᴀʟᴀɪᴋᴜᴍ ᴜᴍᴀʀ ᴍᴀʟɪᴋ ɪ ɴᴇᴇᴅ ʜᴇʟᴘ. ɪ ᴍᴇssᴀɢᴇᴅ ʏᴏᴜ ғʀᴏᴍ ʟᴇɢᴇɴᴅ-ᴍᴅ ʀᴇᴘᴏ..*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 -----------    
