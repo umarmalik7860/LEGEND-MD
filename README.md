@@ -33,7 +33,7 @@
 ------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=AWAN%20%MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20AWAN%20ZADA%20KING%20OF%20KINGS%20OWNER%20AWAN%20ZADA👑&image=https://i.ibb.co/kcC7KDT/Manul-Ofc-X.jpg?v=4&backgroundColor=%23ecf0f1&github=AWANZADA&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=LEGEND%20%MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20AWAN%20ZADA%20KING%20OF%20KINGS%20OWNER%20AWAN%20ZADA👑&image=https://i.ibb.co/kcC7KDT/Manul-Ofc-X.jpg?v=4&backgroundColor=%23ecf0f1&github=AWANZADA&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
 
@@ -282,7 +282,7 @@ jobs:
 
 
 
-<a><img src='https://i.ibb.co/kcC7KDT/Manul-Ofc-X.jpg'/></a>
+<a><img src='https://i.ibb.co/CPXsb0s/Manul-Ofc-X.jpg'/></a>
 
 
 -----------
