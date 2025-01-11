@@ -7,7 +7,7 @@
             alt="AWAN" 
             width="700" 
             height="400" 
-            src="https://qu.ax/OAbEA.jpg" 
+            src="https://i.ibb.co/kcC7KDT/Manul-Ofc-X.jpg" 
             style="border: 3px solid #000; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;"
             onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0, 0, 0, 0.4)';"
             onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 12px rgba(0, 0, 0, 0.3)';"
@@ -33,7 +33,7 @@
 ------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=AWAN%20%MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20AWAN%20ZADA%20KING%20OF%20KINGS%20OWNER%20AWAN%20ZADA👑&image=https://qu.ax/OAbEA.jpg?v=4&backgroundColor=%23ecf0f1&github=AWANZADA&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=AWAN%20%MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20AWAN%20ZADA%20KING%20OF%20KINGS%20OWNER%20AWAN%20ZADA👑&image=https://i.ibb.co/kcC7KDT/Manul-Ofc-X.jpg?v=4&backgroundColor=%23ecf0f1&github=AWANZADA&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
 
@@ -272,7 +272,7 @@ jobs:
 
 -------------
 
-<a><img src='https://i.ibb.co/D5NSrBg/Manul-Ofc-X.jpg'/></a>
+<a><img src='https://i.ibb.co/kcC7KDT/Manul-Ofc-X.jpg'/></a>
 
 ------------
 
@@ -282,7 +282,7 @@ jobs:
 
 
 
-<a><img src='https://i.ibb.co/D5NSrBg/Manul-Ofc-X.jpg'/></a>
+<a><img src='https://i.ibb.co/kcC7KDT/Manul-Ofc-X.jpg'/></a>
 
 
 -----------
