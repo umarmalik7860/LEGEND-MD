@@ -4,7 +4,7 @@
 <div align="center" style="margin: 20px; font-family: Arial, sans-serif;">
     <a href="" style="text-decoration: none;">
         <img 
-            alt="AWAN" 
+            alt="LEGEND-MD" 
             width="700" 
             height="400" 
             src="https://i.ibb.co/kcC7KDT/Manul-Ofc-X.jpg" 
@@ -33,7 +33,7 @@
 ------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=LEGEND%20%MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20AWAN%20ZADA%20KING%20OF%20KINGS%20OWNER%20AWAN%20ZADA👑&image=https://i.ibb.co/kcC7KDT/Manul-Ofc-X.jpg?v=4&backgroundColor=%23ecf0f1&github=AWANZADA&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=LEGEND%20%MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20UMAR_MALIK%20ZADA%20KING%20OF%20KINGS%20OWNER%20LEGEND%20MD&image=https://i.ibb.co/kcC7KDT/Manul-Ofc-X.jpg?v=4&backgroundColor=%23ecf0f1&github=AWANZADA&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
 
