@@ -33,7 +33,7 @@
 ------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=LEGEND%20%MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20UMAR_MALIK%20%20KING%20OF%20KINGS%20OWNER%20LEGEND%20MD&image=https://i.ibb.co/kcC7KDT/Manul-Ofc-X.jpg?v=4&backgroundColor=%23ecf0f1&github=AWANZADA&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=LEGEND%20%MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20UMAR_MALIK%20%20KING%20OF%20KINGS%20OWNER%20LEGEND%20MD&image=https://i.ibb.co/kcC7KDT/Manul-Ofc-X.jpg?v=4&backgroundColor=%23ecf0f1&github=UMAR_MALIK&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
 
@@ -44,7 +44,7 @@ src="https://cardivo.vercel.app/api?name=LEGEND%20%MD%20V2&description=🥂THE%2
 --------
 
 <p align="center">
-<a href="https://github.com/itzawanzada/"><img title="Followers" src="https://img.shields.io/github/followers/itzawanzada?color=blue&style=flat-square"></a>
+<a href="https://github.com/umarmalik7860/"><img title="Followers" src="https://img.shields.io/github/followers/itzawanzada?color=blue&style=flat-square"></a>
 <a href="https://github.com/itzawanzada/AWAN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/itzawanzada/AWAN-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/itzawanzada/AWAN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/itzawanzada/AWAN-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/itzawan/AWAN-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/itzawanzada/AWAN-MD?style=flat-square&color=blue"></a>
