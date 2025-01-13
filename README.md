@@ -56,8 +56,7 @@ src="https://cardivo.vercel.app/api?name=LEGEND%20%MD%20V2&description=🥂THE%2
 -----------
 ----------
 
-<div align="center"><br> <img src="https://profile-counter.glitch.me/LEGEND-MD/count.svg" /><br>LEGEND-MD-V
-V9</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/LEGEND-MD/count.svg" /><br>LEGEND-MD-V9</div>
 
 ------------
 
@@ -163,7 +162,7 @@ V9</div>
 
 ------------
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/itzawanzada/AWAN-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/umarmalik7860/LEGEND-MD)
 
 ----------
 
@@ -173,7 +172,7 @@ V9</div>
 
 -------------
 
-<p align="left"><a href="https://repl.it/github/itzawanzada/AWAN-MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<p align="left"><a href="https://repl.it/github/umarmalik7860/LEGEND-MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------------
 
@@ -266,7 +265,7 @@ jobs:
     </a>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=AWAN-MD;+THE+WORLD+BEST+WHATSAPP+BOT;+CREATED+BY+MUDASSAR+AWANZADA;KEEP+USING+AWAN-MD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=LEGEND-MD;+THE+WORLD+BEST+WHATSAPP+BOT;+CREATED+BY+UMAR+MALIK;KEEP+USING+LEGEND-MD" alt="Typing SVG" /></a>
   </p>
 
 -------------
@@ -286,11 +285,11 @@ jobs:
 
 -----------
 
-***⚠️THANKS FOR USING LEGEND-MD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE AWAN-MD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANKYOU BY LEGEND BAD BOY 👑 KING OF WHATSAPP♥️☣️🥂***
+***⚠️THANKS FOR USING LEGEND-MD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE LEGEND-MD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANKYOU BY LEGEND BAD BOY 👑 KING OF WHATSAPP♥️☣️🥂***
 
 ------------
 
-![license](https://img.shields.io/github/license/itzawanzada/AWAN-MD?color=green&label=License&style=plastic)
+![license](https://img.shields.io/github/license/umarmalik7860/LEGEND-MD?color=green&label=License&style=plastic)
 
 ----------
 
