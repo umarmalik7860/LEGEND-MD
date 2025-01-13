@@ -45,10 +45,10 @@ src="https://cardivo.vercel.app/api?name=LEGEND%20%MD%20V2&description=🥂THE%2
 
 <p align="center">
 <a href="https://github.com/umarmalik7860/"><img title="Followers" src="https://img.shields.io/github/followers/itzawanzada?color=blue&style=flat-square"></a>
-<a href="https://github.com/itzawanzada/AWAN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/itzawanzada/AWAN-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/itzawanzada/AWAN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/itzawanzada/AWAN-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/itzawan/AWAN-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/itzawanzada/AWAN-MD?style=flat-square&color=blue"></a>
-<a href="https://github.com/itzawanzada/AWAN-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/umarmalik7860/LEGEND-MD/"><img title="Stars" src="https://img.shields.io/github/stars/umarmalik7860/LEGEND-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/umarmalik7860/LEGEND-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/umarmalik7860/LEGEND-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/umarmalik7860/LEGEND-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/umarmalik7860/LEGEND-MD?style=flat-square&color=blue"></a>
+<a href="https://github.com/umarmalik7860/LEGEND-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -56,7 +56,8 @@ src="https://cardivo.vercel.app/api?name=LEGEND%20%MD%20V2&description=🥂THE%2
 -----------
 ----------
 
-<div align="center"><br> <img src="https://profile-counter.glitch.me/AWAN-MD/count.svg" /><br>AWAN-MD-V2</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/LEGEND-MD/count.svg" /><br>LEGEND-MD-V
+V9</div>
 
 ------------
 
@@ -72,15 +73,13 @@ src="https://cardivo.vercel.app/api?name=LEGEND%20%MD%20V2&description=🥂THE%2
 ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSILENTLOVER40%2FAWAN-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
 
-![forks](https://img.shields.io/github/forks/itzawanzada/AWAN-MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/umarmalik7860/LEGEND-MD?label=Forks&style=social)
 
 
-![stars](https://img.shields.io/github/stars/itzawanzada/AWAN-MD?style=social)
+![stars](https://img.shields.io/github/stars/umarmalik7860/LEGEND-MD?style=social)
 
 
-[![FORK AWAN-MD](https://img.shields.io/badge/FORK%20-AWAN%20MD-white)](https://github.com/itzawanzada/AWAN-MD/fork)
-
-`⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
+[![FORK LEGEND-MD](https://img.shields.io/badge/FORK%20-AWAN%20MD-white)](https://github.com/umarmalik7860/LEGEND-MD/fork)`⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
 
 ---------------
 
