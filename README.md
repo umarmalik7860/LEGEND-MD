@@ -44,7 +44,7 @@ src="https://cardivo.vercel.app/api?name=LEGEND%20%MD%20V2&description=🥂THE%2
 --------
 
 <p align="center">
-<a href="https://github.com/umarmalik7860/"><img title="Followers" src="https://img.shields.io/github/followers/itzawanzada?color=blue&style=flat-square"></a>
+<a href="https://github.com/umarmalik7860/"><img title="Followers" src="https://img.shields.io/github/followers/umarmalik7860?color=blue&style=flat-square"></a>
 <a href="https://github.com/umarmalik7860/LEGEND-MD/"><img title="Stars" src="https://img.shields.io/github/stars/umarmalik7860/LEGEND-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/umarmalik7860/LEGEND-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/umarmalik7860/LEGEND-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/umarmalik7860/LEGEND-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/umarmalik7860/LEGEND-MD?style=flat-square&color=blue"></a>
@@ -69,7 +69,7 @@ src="https://cardivo.vercel.app/api?name=LEGEND%20%MD%20V2&description=🥂THE%2
 
 ----------------
 
-![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSILENTLOVER40%2FAWAN-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSILENTLOVER40%2FLEGEND-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
 
 ![forks](https://img.shields.io/github/forks/umarmalik7860/LEGEND-MD?label=Forks&style=social)
