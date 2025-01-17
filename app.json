@@ -1,0 +1,314 @@
+{
+  "name": "𝐋𝐄𝐆𝐄𝐍𝐃-𝐌𝐃",
+  "description": "LEGEND MD IS THE MAKE BY USING BAILEY'S",
+  "logo": "https://qu.ax/OAbEA.jpg",
+  "keywords": ["bot"],
+  "success_url": "/",
+
+"stack": "container",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true,
+      "value": ""
+    },  
+    
+    "ALIVE_IMG": {
+      "description": "paste your image url if you don't have you can use this public url.",
+      "required": true,
+      "value": "https://i.ibb.co/zPp0q0f/Manul-Ofc-X.jpg"
+    }, 
+    
+    "ALIVE_MSG": {
+      "description": "paste your alive message hear.",
+      "required": true,
+      "value": "нує му fιяєи∂ ɨ'ʍ ʟɛɢɛռɖ ɮǟɖ ɮօʏ αм αℓινє иσω.!!"
+    },
+    
+    "PREFIX": {
+      "description": "paste your bot prefix note! Don't apply null prefix.",
+      "required": true,
+      "value": "."
+    },
+    
+    "MODE": {
+      "description": "select your bot work type public-private-inbox-group.",
+      "required": true,
+      "value": "public"
+    }, 
+
+    "AUTO_VOICE": {
+      "description": "Make it true if you want bot auto voice.",
+      "required": true,
+      "value": "true"
+    }, 
+
+    "AUTO_REPLY": {
+      "description": "Make it true if you want bot auto reply.",
+      "required": true,
+      "value": "true"
+    }, 
+
+    "AUTO_STICKER": {
+      "description": "Make it true if you want bot auto sticker.",
+      "required": true,
+      "value": "true"
+    }, 
+
+    "AUTO_READ_STATUS": {
+      "description": "Make it true if you want bot auto auto_read_status.",
+      "required": true,
+      "value": "true"
+    }, 
+
+    "ANTI_LINK": {
+      "description": "Make it true if you want bot auto remove group link.",
+      "required": true,
+      "value": "true"
+    },
+
+    "ANTI_BAD": {
+      "description": "Make it true if you want bot auto delete bad words from group example xxx porn etc.",
+      "required": true,
+      "value": "true"
+    }, 
+
+    "FAKE_RECORDING": {
+      "description": "Make it true if you want bot fake record.",
+      "required": true,
+      "value": "false"
+    },
+
+    "AUTO_REACT": {
+      "description": "Make it true if you want bot AutoReact.",
+      "required": true,
+      "value": "true"
+    },
+
+    "OWNER_REACT": {
+      "description": "Make it true if you want bot OwnerReact.",
+      "required": true,
+      "value": "true"
+    
+    }, 
+
+    "BOT_NAME": {
+      "description": "write hear your name.",
+      "required": true,
+      "value": "𝘓𝘌𝘎𝘌𝘕𝘋-𝘔𝘋"
+    }, 
+
+    "HEART_REACT": {
+      "description": "Make it true if you want bot only heart ♥️ emjois reaction .",
+      "required": true,
+      "value": "false"
+    }, 
+
+    "READ_MESSAGE": {
+      "description": "Make it true if you want bot read your all sms just now.",
+      "required": true,
+      "value": "false"
+    }, 
+    "CAPTION": {
+      "description": "enter your caption if you want to show on menu.",
+      "required": true,
+      "value": "POWERED BY 𝘜𝘔𝘈𝘙 𝘔𝘈𝘓𝘐𝘒"
+    }, {
+  "name": "ᴀᴡᴀɴ-ᴍᴅ",
+  "description": "LEGEND MD IS THE MAKE BY USING BAILEY'S",
+  "logo": "https://qu.ax/OAbEA.jpg",
+  "keywords": ["bot"],
+  "success_url": "/",
+
+"stack": "container",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true,
+      "value": ""
+    },  
+    
+    "ALIVE_IMG": {
+      "description": "paste your image url if you don't have you can use this public url.",
+      "required": true,
+      "value": "https://i.ibb.co/zPp0q0f/Manul-Ofc-X.jpg"
+    }, 
+    
+    "ALIVE_MSG": {
+      "description": "paste your alive message hear.",
+      "required": true,
+      "value": "нує му fιяєи∂ ɨ'ʍ ʟɛɢɛռɖ ɮǟɖ ɮօʏ αм αℓινє иσω.!!"
+    },
+    
+    "PREFIX": {
+      "description": "paste your bot prefix note! Don't apply null prefix.",
+      "required": true,
+      "value": "."
+    },
+    
+    "MODE": {
+      "description": "select your bot work type public-private-inbox-group.",
+      "required": true,
+      "value": "public"
+    }, 
+
+    "AUTO_VOICE": {
+      "description": "Make it true if you want bot auto voice.",
+      "required": true,
+      "value": "true"
+    }, 
+
+    "AUTO_REPLY": {
+      "description": "Make it true if you want bot auto reply.",
+      "required": true,
+      "value": "true"
+    }, 
+
+    "AUTO_STICKER": {
+      "description": "Make it true if you want bot auto sticker.",
+      "required": true,
+      "value": "true"
+    }, 
+
+    "AUTO_READ_STATUS": {
+      "description": "Make it true if you want bot auto auto_read_status.",
+      "required": true,
+      "value": "true"
+    }, 
+
+    "ANTI_LINK": {
+      "description": "Make it true if you want bot auto remove group link.",
+      "required": true,
+      "value": "true"
+    },
+
+    "ANTI_BAD": {
+      "description": "Make it true if you want bot auto delete bad words from group example xxx porn etc.",
+      "required": true,
+      "value": "true"
+    }, 
+
+    "FAKE_RECORDING": {
+      "description": "Make it true if you want bot fake record.",
+      "required": true,
+      "value": "false"
+    },
+
+    "AUTO_REACT": {
+      "description": "Make it true if you want bot AutoReact.",
+      "required": true,
+      "value": "true"
+    },
+
+    "OWNER_REACT": {
+      "description": "Make it true if you want bot OwnerReact.",
+      "required": true,
+      "value": "true"
+    
+    }, 
+
+    "BOT_NAME": {
+      "description": "write hear your name.",
+      "required": true,
+      "value": "𝘓𝘌𝘎𝘌𝘕𝘋-𝘔𝘋"
+    }, 
+
+    "HEART_REACT": {
+      "description": "Make it true if you want bot only heart ♥️ emjois reaction .",
+      "required": true,
+      "value": "false"
+    }, 
+
+    "READ_MESSAGE": {
+      "description": "Make it true if you want bot read your all sms just now.",
+      "required": true,
+      "value": "false"
+    }, 
+    "CAPTION": {
+      "description": "enter your caption if you want to show on menu.",
+      "required": true,
+      "value": "POWERED BY 𝘜𝘔𝘈𝘙 𝘔𝘈𝘓𝘐𝘒"
+    }, 
+    "STATUS_REPLY": {
+      "description": "enter your caption if you want to show on status reply.",
+      "required": true,
+      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү ᥣᥱgᥱᥒძ м∂"
+    },
+    "AUTO_REPLY_STATUS": {
+      "description": "you can true or false it.",
+      "required": true,
+      "value": "true"
+    }, 
+
+    "ALWAYS_ONLINE": {
+      "description": "make it true if you want to show always online.",
+      "required": true,
+      "value": "true"
+    }, 
+    "FAKE_TYPING": {
+      "description": "make it true if you want to show fake typing.",
+      "required": true,
+      "value": "true"
+    }, 
+    "CURRENT_STATUS": {
+      "description": "make it true if you to show your reail last seen.",
+      "required": true,
+      "value": "false"
+    }, 
+    "READ_CMD": {
+      "description": "make it true if you want bot auto read commands",
+      "required": true,
+      "value": "true"
+    }
+
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
+
+    "STATUS_REPLY": {
+      "description": "enter your caption if you want to show on status reply.",
+      "required": true,
+      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү ᥣᥱgᥱᥒძ м∂"
+    },
+    "AUTO_REPLY_STATUS": {
+      "description": "you can true or false it.",
+      "required": true,
+      "value": "true"
+    }, 
+
+    "ALWAYS_ONLINE": {
+      "description": "make it true if you want to show always online.",
+      "required": true,
+      "value": "true"
+    }, 
+    "FAKE_TYPING": {
+      "description": "make it true if you want to show fake typing.",
+      "required": true,
+      "value": "true"
+    }, 
+    "CURRENT_STATUS": {
+      "description": "make it true if you to show your reail last seen.",
+      "required": true,
+      "value": "false"
+    }, 
+    "READ_CMD": {
+      "description": "make it true if you want bot auto read commands",
+      "required": true,
+      "value": "true"
+    }
+
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
